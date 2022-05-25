@@ -1,0 +1,5 @@
+local Command = 'setlevel 1'; 
+  str(('bots-level = 1'), true)
+  str()
+
+bots-level = "Command; str"
